@@ -7,5 +7,6 @@ The primary tools and languages I use daily are C#, JavaScript, ASP.NET, React, 
 I'm not a big fan of social networks, not as much as I was in my teenagehood, but you may find me here and there.
 - [LinkedIn](https://linkedin.com/in/kmyrnx) - Online resume, professional networking.
 - [Goodreads](https://www.goodreads.com/user/show/159295278-kamyar) - Keeps track of my reading list.
+- [Spotify](https://open.spotify.com/playlist/01yfrCiv9ulQdENviW0hDg) - Playlist of my favourites on Spotify.
 
 If you are ever interested in contacting me, here is my [email](mailto:kmyrnx@gmail.com).
